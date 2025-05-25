@@ -16,3 +16,12 @@ The primary objective is to empower users to take control of their learning proc
 goal-oriented environment that aligns with industry trends and personal aspirations. This tool has potential 
 applications in educational institutions, corporate training, and self-paced learning communities, ensuring that 
 skills
+
+
+![image alt](https://github.com/Akashprajapati010/Learning_path_dashbord_system/blob/3c60b88d5051639c7441ba14ff2fb83fc5e0e590/public/image/Screenshot%202025-05-18%20005413.png)
+![image alt](https://github.com/Akashprajapati010/Learning_path_dashbord_system/blob/3c60b88d5051639c7441ba14ff2fb83fc5e0e590/public/image/Screenshot%202025-05-18%20012851.png)
+![image alt](https://github.com/Akashprajapati010/Learning_path_dashbord_system/blob/3c60b88d5051639c7441ba14ff2fb83fc5e0e590/public/image/Screenshot%202025-05-18%20021007.png)
+![image alt](https://github.com/Akashprajapati010/Learning_path_dashbord_system/blob/3c60b88d5051639c7441ba14ff2fb83fc5e0e590/public/image/Screenshot%202025-05-18%20012907.png)
+![image alt](https://github.com/Akashprajapati010/Learning_path_dashbord_system/blob/3c60b88d5051639c7441ba14ff2fb83fc5e0e590/public/image/Screenshot%202025-05-18%20013457.png)
+![image alt](https://github.com/Akashprajapati010/Learning_path_dashbord_system/blob/3c60b88d5051639c7441ba14ff2fb83fc5e0e590/public/image/Screenshot%202025-05-18%20013726.png)
+
