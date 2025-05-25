@@ -17,6 +17,12 @@ goal-oriented environment that aligns with industry trends and personal aspirati
 applications in educational institutions, corporate training, and self-paced learning communities, ensuring that 
 skills
 
+• React.js Official Documentation ( https://reactjs.org/docs/getting-started.html ) 
+• Next.js Official Documentation ( https://nextjs.org/docs ) 
+• Node.js Official Documentation ( https://nodejs.org/en/docs ) 
+• Hygraph (Headless CMS) ( https://hygraph.com ) 
+• Clerk Authentication Platform ( https://clerk.dev )
+
 
 ![image alt](https://github.com/Akashprajapati010/Learning_path_dashbord_system/blob/3c60b88d5051639c7441ba14ff2fb83fc5e0e590/public/image/Screenshot%202025-05-18%20005413.png)
 ![image alt](https://github.com/Akashprajapati010/Learning_path_dashbord_system/blob/3c60b88d5051639c7441ba14ff2fb83fc5e0e590/public/image/Screenshot%202025-05-18%20012851.png)
