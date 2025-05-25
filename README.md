@@ -17,26 +17,12 @@ goal-oriented environment that aligns with industry trends and personal aspirati
 applications in educational institutions, corporate training, and self-paced learning communities, ensuring that 
 skills
 
-1 React.js 
-• A powerful JavaScript library used for building dynamic, responsive user interfaces. 
-• Allows component-based development, making the front-end modular, reusable, and easy to 
-maintain. 
-/n
-2 Integrated Development Environment (IDE) 
-• VS Code: A lightweight and feature-rich coding environment. 
-• Provides debugging tools, extensions, and an intuitive interface for seamless development. 
-3 Next.js and Node.js 
-• Next.js is a React framework that enables server-side rendering (SSR) and static site generation 
-(SSG). 
-• Nodejs is used facilitates the back-end of the application, handling APIs, server-side authentication, 
-and database communication. 
-4 Hygraph 
-• A headless CMS (Content Management System) used for managing and delivering content via 
-GraphQL APIs. 
-• Integrates easily with front-end frameworks like Next.js for content-driven experiences. 
+### Technology Used
+1 React.js ,
+2 Integrated Development Environment (IDE) ,
+3 Next.js and Node.js ,
+4 Hygraph , 
 5 Clerk 
-• An authentication and user management platform. 
-• Provides pre-built components for login, sign-up, profile management, and secure session handling. 
 
 
 ![image alt](https://github.com/Akashprajapati010/Learning_path_dashbord_system/blob/3c60b88d5051639c7441ba14ff2fb83fc5e0e590/public/image/Screenshot%202025-05-18%20005413.png)
