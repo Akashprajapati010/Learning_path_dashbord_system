@@ -44,6 +44,19 @@ Potential applications include:
 
 ---
 
+## 👥 Team Members & Roles
+
+**Team Leader:** **Akash Prajapati**
+
+| Member Name       | Role & Responsibilities |
+|-------------------|--------------------------|
+| **Aakash Tiwari** | **UI/UX Designer** – Conducted usability testing and gathered user feedback. Ensured the design was intuitive and aligned with user needs. |
+| **Akash Prajapati** | **Full-Stack Developer & Team Leader** – Oversaw the project, assigned tasks, ensured deadlines, and designed & implemented the user interface using React.js & Next.js. Developed backend functionality using Hygraph. |
+| **Adnan Baig**    | **Back-End Developer** – Integrated Hygraph CMS for content management and Clerk for authentication. Managed database interactions and API security. |
+| **Ashish Mehra**  | **Documentation & Deployment** – Prepared project documentation including reports, manuals, and presentations. |
+
+---
+
 ## 📸 Screenshots
 ![Dashboard Screenshot](https://github.com/Akashprajapati010/Learning_path_dashbord_system/blob/3c60b88d5051639c7441ba14ff2fb83fc5e0e590/public/image/Screenshot%202025-05-18%20005413.png)
 ![Course Recommendation](https://github.com/Akashprajapati010/Learning_path_dashbord_system/blob/3c60b88d5051639c7441ba14ff2fb83fc5e0e590/public/image/Screenshot%202025-05-18%20012851.png)
@@ -60,4 +73,4 @@ Licensed under the **MIT License** – free to use and modify for educational an
 ---
 
 ## 📝 Author
-**[Akash Prajapati]** – Passionate about **web development**, **data-driven applications**, and creating tools that help people learn and grow.
+**Akash Prajapati** – Passionate about **web development**, **data-driven applications**, and creating tools that help people learn and grow.
